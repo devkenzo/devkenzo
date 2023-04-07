@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed AL-Fassi</h1>
+<h1 align="center">Hi 👋, I'm Abdessamad</h1>
 <h3 align="center">Student & Game Developer</h3>
 
 - 🔭 I’m currently working on **Creating my first TPS GAME**
